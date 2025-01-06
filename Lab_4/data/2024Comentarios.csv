@@ -1,0 +1,26 @@
+Ref;RefUsuario;RefProducto;fecha;texto;RefRespuestaA
+CM1;US4;PR1;01/06/2024;¿La camiseta azul esta disponible en talla M?; 
+CM2;US2;PR1;01/06/2024;Si, tenemos la camiseta azul en talla M.;CM1
+CM3;US5;PR1;02/06/2024;¿Es de buen material? Me preocupa la durabilidad.;CM2
+CM4;US4;PR1;02/06/2024;He comprado antes y la calidad es buena.;CM3
+CM5;US7;PR1;02/06/2024;¿Como es el ajuste? ¿Es ajustada o holgada?;
+CM6;US5;PR2;02/06/2024;¿Cual es la resolucion del Televisor LED?; 
+CM7;US1;PR2;02/06/2024;El televisor LED tiene una resolucion de 4K UHD.;CM6
+CM8;US8;PR2;03/06/2024;¿Tiene soporte para HDR10?;
+CM9;US1;PR2;03/06/2024;Si, soporta HDR10.;CM8
+CM10;US7;PR3;03/06/2024;¿La chaqueta de cuero es resistente al agua?; 
+CM11;US2;PR3;03/06/2024;No, la chaqueta de cuero no es resistente al agua.;CM10
+CM12;US5;PR3;04/06/2024;¿Viene en otros colores?;CM10
+CM13;US2;PR3;04/06/2024;Si, tambien esta disponible en marron.;CM12
+CM14;US9;PR3;04/06/2024;¿Es adecuada para climas frios?;CM10
+CM15;US8;PR4;04/06/2024;¿El microondas digital tiene funcion de descongelacion rapida?; 
+CM16;US1;PR4;04/06/2024;Si, el microondas digital incluye una funcion de descongelacion rapida.;CM15
+CM17;US7;PR4;05/06/2024;¿Cuantos niveles de potencia tiene?;CM15
+CM18;US1;PR4;05/06/2024;Tiene 10 niveles de potencia.;CM17
+CM19;US9;PR4;05/06/2024;¿Es facil de limpiar?;CM15
+CM20;US9;PR5;05/06/2024;¿La luz LED se puede controlar con una aplicacion movil?; 
+CM21;US3;PR5;05/06/2024;Si, la luz LED se puede controlar a traves de una aplicacion movil.;CM20
+CM22;US8;PR5;06/06/2024;¿Es compatible con Alexa o Google Home?;CM20
+CM23;US3;PR5;06/06/2024;Si, es compatible con ambos.;CM22
+CM24;US7;PR5;06/06/2024;¿Cuanto dura la bateria?;CM20
+CM25;US8;PR5;07/06/2024;¿La aplicacion movil es facil de usar?;CM20

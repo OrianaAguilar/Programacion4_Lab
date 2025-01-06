@@ -1,0 +1,16 @@
+Ref;codigo;nombre;descripcion;stock;precio;categoria;RefVendedor
+PR1;1;Camiseta Azul;Camiseta de poliester, color azul;50;1400;R;US2
+PR2;2;Televisor LED;Televisor LED 55 pulgadas;30;40500;E;US1
+PR3;3;Chaqueta de Cuero;Chaqueta de cuero, color negro;20;699.99;R;US2
+PR4;4;Microondas Digital;Microondas digital, 30L;15;1199.99;E;US1
+PR5;5;Luz LED;Luz Bluetooth LED;40;599.99;O;US3
+PR6;6;Pantalones Vaqueros;Pantalones vaqueros, talla 32;25;60;R;US2
+PR7;7;Auriculares Bluetooth;Auriculares bluethooth para celular;35;199.99;O;US3
+PR8;8;Refrigerador;Refrigerador de doble puerta;10;15499;E;US1
+PR9;9;Cafetera;Cafetera de goteo programable;50;23000;E;US1
+PR10;10;Zapatillas Deportivas;Zapatillas para correr, talla 42;20;5500;R;US2
+PR11;11;Mochila;Mochila de viaje, 40L;30;9000;O;US2 
+PR12;12;Plancha de Ropa;Plancha a vapor, 1500W;25;2534;E;US3
+PR13;13;Gorra;Gorra para deportes, color rojo;50;200;R;US10
+PR14;14;Tablet;Tablet Android de 10 pulgadas;15;15000;E;US3
+PR15;15;Reloj de Pared;Reloj de pared vintage;20;150.50;O;US10
